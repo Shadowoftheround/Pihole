@@ -49,8 +49,8 @@ beacons5.gvt2.com
 #################################################
 
 beacons5.gvt2.com
-
-
+beacons5.gvt3.com
+syndication.exosrv.com
 
 
 
