@@ -66,6 +66,15 @@ update.googleapis.com
 storage.googleapis.com
 dl.google.com
 client.wns.windows.com
+download.windowsupdate.com
+client.wns.windows.com
+licensing.mp.microsoft.com
+kv501.prod.do.dsp.mp.microsoft.com
+login.microsoftonline.com
+client.wns.windows.com
+geo.prod.do.dsp.mp.microsoft.com
+dns.msftncsi.com
+go.microsoft.com
 
 
 
